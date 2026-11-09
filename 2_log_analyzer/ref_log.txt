@@ -1,0 +1,2 @@
+[2026-10-08T10:02:30] [ERROR] Hash: 0xbca56c0a | Message: Segfault detected: illegal memory read.
+[2026-10-08T10:03:00] [ERROR] Hash: 0xd13a23fb | Message: Failed to acquire lock on memory buffer.

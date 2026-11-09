@@ -1,0 +1,9 @@
+Parsed 5 log records into BoundedBuffer.
+
+[Filter 1] Found 2 ERROR records.
+[Operator+ Demo] Modified Log Record:
+  [2026-10-08T10:02:30] [ERROR] Hash: 0xb1b8363 | Message: Segfault detected: illegal memory read. [ANNOTATED_BY_SYSTEM]
+[Filter 2] Found 2 records with keyword 'memory'.
+[Filter 3] Found 2 records matching hash modulo rule.
+
+

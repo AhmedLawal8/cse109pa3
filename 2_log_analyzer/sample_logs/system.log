@@ -1,0 +1,5 @@
+2026-10-08T10:00:00 INFO System initialized successfully.
+2026-10-08T10:01:15 WARN Memory threshold approaching capacity.
+2026-10-08T10:02:30 ERROR Segfault detected: illegal memory read.
+2026-10-08T10:03:00 ERROR Failed to acquire lock on memory buffer.
+2026-10-08T10:04:12 INFO Client connected from address 127.0.0.1.
